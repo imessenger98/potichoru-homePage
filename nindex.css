@@ -65,10 +65,15 @@ body{
 
 .homesec  a {
     text-align: center;
-    font-size: 1.6vw;
+    font-size: 1.0vw;
     color: black;
+    text-decoration: none;
+
     
 }  
+.homesec  a :hover{
+  color:white;
+}
 
 /* jumptron ends */
 
@@ -584,7 +589,7 @@ font-size: 6vh;
 .tm-section{
   color:black;
   background-color: white;
-  margin: 10px;
-  padding: 40px;
+  margin: 20px;
+  padding: 20px;
 
 }
